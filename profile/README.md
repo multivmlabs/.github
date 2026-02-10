@@ -28,11 +28,11 @@ A decentralized marketplace for quantum simulation and hardware, coordinated by 
 
 A new Layer 1 blockchain built from scratch with post-quantum cryptography. Not a fork. Not an upgrade. The chain designed to outlast Q-Day.
 
-#### QUANTUM EXECUTION LAYER (QEL)
+#### QUANTUM CIRCUIT NETWORK
 
 The first blockchain runtime where quantum jobs are native. Submit circuits, run simulations, verify results, settle payments. All on-chain.
 
-#### $QUBIT
+#### $QBIT
 
 The native token powering Quantum. Stake to validate, pay for execution, earn from compute. Economic coordination for quantum workloads.
 
