@@ -20,7 +20,7 @@ Quantum execution at Layer 1. Simulation today, hardware tomorrow. Same interfac
 
 #### BUILT-IN COMPUTE MARKETS
 
-A decentralized marketplace for quantum simulation and hardware, coordinated by the QUBIT token.
+A decentralized marketplace for quantum simulation and hardware, coordinated by the QBIT token.
 
 ## The Ecosystem We’re Building
 
@@ -36,6 +36,6 @@ The first blockchain runtime where quantum jobs are native. Submit circuits, run
 
 The native token powering Quantum. Stake to validate, pay for execution, earn from compute. Economic coordination for quantum workloads.
 
-#### QUANTUM MARKETPLACE
+#### ENTANGLEMENT BRIDGE
 
-Permissionless access to quantum computation. Workers compete, users submit jobs, verification ensures honesty. A new market built into the protocol.
+A native post-quantum bridge for classical EVM chains. Assets lock on the source chain, pass through a PQ boundary, PQ-secure mint on Quantum L1.
