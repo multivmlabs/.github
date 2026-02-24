@@ -2,21 +2,18 @@
 </a>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/multivmlabs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/multivmlabs)</br>
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/QuantumFDN)](https://x.com/QuantumFDN)
 
 # About MultiVM Labs
 
-MultiVM Labs is an R&D lab building Quantum, the Layer 1 network designed from genesis for post-quantum security.
+MultiVM Labs is an R&D lab building [Quantum](https://quantum.systems/), the Layer 1 network designed from genesis for post-quantum security.
 
 ## Designed From First Principles
 
 #### POST-QUANTUM FROM GENESIS
 
 No legacy cryptography. No migration debt. No emergency upgrades. Quantum uses NIST-standardized signatures from day zero.
-
-#### NATIVE QUANTUM EXECUTION
-
-Quantum execution at Layer 1. Simulation today, hardware tomorrow. Same interface, same guarantees.
 
 #### BUILT-IN COMPUTE MARKETS
 
